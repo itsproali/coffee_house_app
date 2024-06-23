@@ -14,6 +14,64 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-coffee_house-coffee_houseTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-coffee_house-coffee_houseTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		86F153BAFDE2419697FF3260 /* app_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DAD0BEA9B9BA4B99933EE257 /* app_icons.ttf */; };
+		6FBDB4350A6E4C86847447EC /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21D1B9F90C9D4B6CB66681F6 /* Poppins-Black.ttf */; };
+		AC843BB8156A42A4BA1EC027 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4AC46CFD5C146B5A2B34EF1 /* Poppins-Bold.ttf */; };
+		A26095E10D484488A7E6C66A /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EE02D92D24C4076BBB6722E /* Poppins-ExtraBold.ttf */; };
+		9CC28E2B92B640F197A1EE8B /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4518A9D872D545A68D5BC584 /* Poppins-ExtraLight.ttf */; };
+		A95AB768FA2241DEBCAFDC05 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B224570DEFF4DAAA1B0AE3A /* Poppins-Light.ttf */; };
+		15A25E97E93A49629947F35D /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A512F7150C904296BC226DA7 /* Poppins-Medium.ttf */; };
+		E8E50E842DE343B0B40AC185 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B383A67C07DD4D8682913867 /* Poppins-Regular.ttf */; };
+		F9981223552C482A94CC7B03 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0667314641CE497AB2A4A025 /* Poppins-SemiBold.ttf */; };
+		907683D33B1F4E6C8A0672EE /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76FBE17180E048A7B38ED3EB /* Poppins-Thin.ttf */; };
+		428522EDF0D94603BABC05EE /* amazonpay.png in Resources */ = {isa = PBXBuildFile; fileRef = 68524B80279F444893E4D282 /* amazonpay.png */; };
+		40347DB5179046728E835C59 /* applepay.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EAEFE44C15C4F4CBF4D5F1A /* applepay.png */; };
+		231FB7D9D20F4046B4C6870F /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = E09CC58F2B834809B6657EDD /* avatar.png */; };
+		339D9093523A498A94D1AA45 /* gpay.png in Resources */ = {isa = PBXBuildFile; fileRef = 35AAE1F2EE634E91820F47D1 /* gpay.png */; };
+		E2BA14B284884EE89C077C41 /* americano_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = C34BE204FFD14C6D953D0001 /* americano_pic_1_portrait.png */; };
+		A3094358C31E4BBEAC1428FE /* americano_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 766739D43DAC42809D8FA41B /* americano_pic_2_portrait.png */; };
+		59A81C51DD404AD19C44E170 /* americano_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 461DED45E27144CEB89ACCD2 /* americano_pic_3_portrait.png */; };
+		CA4BE8A5664F41559EACB920 /* americano_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 679DC323535A48E69A988A91 /* americano_pic_1_square.png */; };
+		177BABD88E53498D90B208BB /* americano_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = E2BC463A174D4030BDAD179F /* americano_pic_2_square.png */; };
+		3CD05BAFDBC847929217448A /* americano_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = F8D45202B964461481C52A52 /* americano_pic_3_square.png */; };
+		4FBCD609723548E58B434E0A /* arabica_coffee_beans_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 9280BE868D1E41FF9A594AE4 /* arabica_coffee_beans_portrait.png */; };
+		184AC0FBD1C24C6AB8F2A7DC /* arabica_coffee_beans_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BF829EF83C4441D9884FA4A /* arabica_coffee_beans_square.png */; };
+		60526294A5794FD2A62333D6 /* black_coffee_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = FB7C34D69AD2425C9D6EAF12 /* black_coffee_pic_1_portrait.png */; };
+		D97F1405305E4F249F2AEEC3 /* black_coffee_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = A1016BFB029A40A8A9DB5259 /* black_coffee_pic_2_portrait.png */; };
+		AE7B0A7F53C84ABB935E5AD6 /* black_coffee_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A469FCB172E44578993B0CE /* black_coffee_pic_3_portrait.png */; };
+		299551FE6C8A4393A6CC1FB2 /* black_coffee_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 81F5546284DF47309B06B497 /* black_coffee_pic_1_square.png */; };
+		B344497FCB5D4A61A5A34EC4 /* black_coffee_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCF2E51A1474558A8FFB43B /* black_coffee_pic_2_square.png */; };
+		F45BB35AEC9245949A35D726 /* black_coffee_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 72D8B2938C494C389D30268C /* black_coffee_pic_3_square.png */; };
+		9ABDA91FADED400C82B3ABE0 /* cappuccino_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = DF18D665941243928E06A6F8 /* cappuccino_pic_1_portrait.png */; };
+		7DC35E591E0348A1B5A9A67D /* cappuccino_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 33397C18F5404C738AFBED92 /* cappuccino_pic_2_portrait.png */; };
+		A1CC4635CC6B4CD5ABFBA060 /* cappuccino_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 17BF582B90B0422E830640F8 /* cappuccino_pic_3_portrait.png */; };
+		ABF2A9BAA2DE4A1E923F3281 /* cappuccino_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 05F81C751A8D45FD914EC9F5 /* cappuccino_pic_1_square.png */; };
+		1AA4499EF19F43B0A17D05D2 /* cappuccino_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 17679FF06D58410190105E94 /* cappuccino_pic_2_square.png */; };
+		84E8528E000E4967AC7EEEE3 /* cappuccino_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 991F2DA373C24E85BEF6E260 /* cappuccino_pic_3_square.png */; };
+		01C3388B01834EBDB87C19A5 /* espresso_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DAE8349E7044530BEC5A2F4 /* espresso_pic_1_portrait.png */; };
+		94E857EBBC4F429FBDB09220 /* espresso_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = EC51C11B56A14CD5A8E5D410 /* espresso_pic_2_portrait.png */; };
+		57471F3937B04817B1FE74EB /* espresso_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D365C6112FA94D1E99B23F6E /* espresso_pic_3_portrait.png */; };
+		D1C724D9EBC343C8BEB2D658 /* espresso_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 74B31BDAE558408AB53BEFB7 /* espresso_pic_1_square.png */; };
+		A62C20BAEE584BDAAF1F4D85 /* espresso_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = F5AC9B32873B4FA180F2AF71 /* espresso_pic_2_square.png */; };
+		2A76BEC4C93442B684099DF8 /* espresso_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 915700CA776E45639CFB2F33 /* espresso_pic_3_square.png */; };
+		8AA25D5704C94035BC90C449 /* excelsa_coffee_beans_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D5E8231C5DCF4B70BA1BBF66 /* excelsa_coffee_beans_portrait.png */; };
+		F9CFF1CA7EC0463E9BAB180B /* excelsa_coffee_beans_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 21BC0938DF3B45F2845F129A /* excelsa_coffee_beans_square.png */; };
+		C32B577843B047798932FA84 /* latte_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 626204109B714229BCA72BD1 /* latte_pic_1_portrait.png */; };
+		C2A6684DD470491684B98ED7 /* latte_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 0847BC8C3200475490C68CF0 /* latte_pic_2_portrait.png */; };
+		FDB1FBB48568408B92AD1B45 /* latte_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 34AF9BB3BAE143ECBC9DA8E4 /* latte_pic_3_portrait.png */; };
+		582C5A5C475040C08EEC59E3 /* latte_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = B90BF8055167421496F12F3B /* latte_pic_1_square.png */; };
+		8C98910E7B0A4DFBAFEB32D0 /* latte_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 576C2310AC284BD7B45B1B77 /* latte_pic_2_square.png */; };
+		27126046007E47DB9A170A59 /* latte_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = D92614ADA2E4458EB642EFF5 /* latte_pic_3_square.png */; };
+		2D7C46926FAE41C4BAC0055F /* liberica_coffee_beans_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A94BCCFFC5645DCBE261A3F /* liberica_coffee_beans_portrait.png */; };
+		D568979AA86744B8874F99D9 /* liberica_coffee_beans_square.png in Resources */ = {isa = PBXBuildFile; fileRef = BA99B141227B4562B1AD1C9B /* liberica_coffee_beans_square.png */; };
+		760F7C7F8509420B940D5B04 /* macchiato_pic_1_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 70EFCD7EDD564EE6BA8187D6 /* macchiato_pic_1_portrait.png */; };
+		40BCF6829EB743029DB65B1C /* macchiato_pic_2_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = C68A6CFD5261410E97E7DDA0 /* macchiato_pic_2_portrait.png */; };
+		EEBAE419FA75486CB4489357 /* macchiato_pic_3_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 488E2F12E893430A9E373321 /* macchiato_pic_3_portrait.png */; };
+		C398C45142384BCFAFC44CFA /* macchiato_pic_1_square.png in Resources */ = {isa = PBXBuildFile; fileRef = B12AA549143D4B608F83EF34 /* macchiato_pic_1_square.png */; };
+		955F6DA183754A02B390ECD5 /* macchiato_pic_2_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E197B739F524289883696FC /* macchiato_pic_2_square.png */; };
+		B2C45802F73A45CFB9EC80F0 /* macchiato_pic_3_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 9204A8A7967C48A49793944C /* macchiato_pic_3_square.png */; };
+		703CF5AEE87240328F0C6C35 /* robusta_coffee_beans_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CC0B22A892347B98B67385F /* robusta_coffee_beans_portrait.png */; };
+		31B9672D355C4CFEA0ED4DA9 /* robusta_coffee_beans_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FCA051372AE493D9D2A3D1B /* robusta_coffee_beans_square.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +94,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = coffee_house/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = coffee_house/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = coffee_house/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = coffee_house/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = coffee_house/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-coffee_house-coffee_houseTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-coffee_house-coffee_houseTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-coffee_house.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-coffee_house.debug.xcconfig"; path = "Target Support Files/Pods-coffee_house/Pods-coffee_house.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-coffee_house.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-coffee_house.release.xcconfig"; path = "Target Support Files/Pods-coffee_house/Pods-coffee_house.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +103,64 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = coffee_house/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-coffee_house-coffee_houseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-coffee_house-coffee_houseTests.release.xcconfig"; path = "Target Support Files/Pods-coffee_house-coffee_houseTests/Pods-coffee_house-coffee_houseTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		DAD0BEA9B9BA4B99933EE257 /* app_icons.ttf */ = {isa = PBXFileReference; name = "app_icons.ttf"; path = "../src/assets/fonts/app_icons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		21D1B9F90C9D4B6CB66681F6 /* Poppins-Black.ttf */ = {isa = PBXFileReference; name = "Poppins-Black.ttf"; path = "../src/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F4AC46CFD5C146B5A2B34EF1 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2EE02D92D24C4076BBB6722E /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Poppins-ExtraBold.ttf"; path = "../src/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4518A9D872D545A68D5BC584 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Poppins-ExtraLight.ttf"; path = "../src/assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8B224570DEFF4DAAA1B0AE3A /* Poppins-Light.ttf */ = {isa = PBXFileReference; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A512F7150C904296BC226DA7 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B383A67C07DD4D8682913867 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0667314641CE497AB2A4A025 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76FBE17180E048A7B38ED3EB /* Poppins-Thin.ttf */ = {isa = PBXFileReference; name = "Poppins-Thin.ttf"; path = "../src/assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		68524B80279F444893E4D282 /* amazonpay.png */ = {isa = PBXFileReference; name = "amazonpay.png"; path = "../src/assets/app_images/amazonpay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3EAEFE44C15C4F4CBF4D5F1A /* applepay.png */ = {isa = PBXFileReference; name = "applepay.png"; path = "../src/assets/app_images/applepay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E09CC58F2B834809B6657EDD /* avatar.png */ = {isa = PBXFileReference; name = "avatar.png"; path = "../src/assets/app_images/avatar.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		35AAE1F2EE634E91820F47D1 /* gpay.png */ = {isa = PBXFileReference; name = "gpay.png"; path = "../src/assets/app_images/gpay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C34BE204FFD14C6D953D0001 /* americano_pic_1_portrait.png */ = {isa = PBXFileReference; name = "americano_pic_1_portrait.png"; path = "../src/assets/coffee_assets/americano/portrait/americano_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		766739D43DAC42809D8FA41B /* americano_pic_2_portrait.png */ = {isa = PBXFileReference; name = "americano_pic_2_portrait.png"; path = "../src/assets/coffee_assets/americano/portrait/americano_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		461DED45E27144CEB89ACCD2 /* americano_pic_3_portrait.png */ = {isa = PBXFileReference; name = "americano_pic_3_portrait.png"; path = "../src/assets/coffee_assets/americano/portrait/americano_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		679DC323535A48E69A988A91 /* americano_pic_1_square.png */ = {isa = PBXFileReference; name = "americano_pic_1_square.png"; path = "../src/assets/coffee_assets/americano/square/americano_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E2BC463A174D4030BDAD179F /* americano_pic_2_square.png */ = {isa = PBXFileReference; name = "americano_pic_2_square.png"; path = "../src/assets/coffee_assets/americano/square/americano_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F8D45202B964461481C52A52 /* americano_pic_3_square.png */ = {isa = PBXFileReference; name = "americano_pic_3_square.png"; path = "../src/assets/coffee_assets/americano/square/americano_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9280BE868D1E41FF9A594AE4 /* arabica_coffee_beans_portrait.png */ = {isa = PBXFileReference; name = "arabica_coffee_beans_portrait.png"; path = "../src/assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7BF829EF83C4441D9884FA4A /* arabica_coffee_beans_square.png */ = {isa = PBXFileReference; name = "arabica_coffee_beans_square.png"; path = "../src/assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FB7C34D69AD2425C9D6EAF12 /* black_coffee_pic_1_portrait.png */ = {isa = PBXFileReference; name = "black_coffee_pic_1_portrait.png"; path = "../src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A1016BFB029A40A8A9DB5259 /* black_coffee_pic_2_portrait.png */ = {isa = PBXFileReference; name = "black_coffee_pic_2_portrait.png"; path = "../src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2A469FCB172E44578993B0CE /* black_coffee_pic_3_portrait.png */ = {isa = PBXFileReference; name = "black_coffee_pic_3_portrait.png"; path = "../src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		81F5546284DF47309B06B497 /* black_coffee_pic_1_square.png */ = {isa = PBXFileReference; name = "black_coffee_pic_1_square.png"; path = "../src/assets/coffee_assets/black_coffee/square/black_coffee_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5DCF2E51A1474558A8FFB43B /* black_coffee_pic_2_square.png */ = {isa = PBXFileReference; name = "black_coffee_pic_2_square.png"; path = "../src/assets/coffee_assets/black_coffee/square/black_coffee_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		72D8B2938C494C389D30268C /* black_coffee_pic_3_square.png */ = {isa = PBXFileReference; name = "black_coffee_pic_3_square.png"; path = "../src/assets/coffee_assets/black_coffee/square/black_coffee_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF18D665941243928E06A6F8 /* cappuccino_pic_1_portrait.png */ = {isa = PBXFileReference; name = "cappuccino_pic_1_portrait.png"; path = "../src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		33397C18F5404C738AFBED92 /* cappuccino_pic_2_portrait.png */ = {isa = PBXFileReference; name = "cappuccino_pic_2_portrait.png"; path = "../src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17BF582B90B0422E830640F8 /* cappuccino_pic_3_portrait.png */ = {isa = PBXFileReference; name = "cappuccino_pic_3_portrait.png"; path = "../src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		05F81C751A8D45FD914EC9F5 /* cappuccino_pic_1_square.png */ = {isa = PBXFileReference; name = "cappuccino_pic_1_square.png"; path = "../src/assets/coffee_assets/cappuccino/square/cappuccino_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17679FF06D58410190105E94 /* cappuccino_pic_2_square.png */ = {isa = PBXFileReference; name = "cappuccino_pic_2_square.png"; path = "../src/assets/coffee_assets/cappuccino/square/cappuccino_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		991F2DA373C24E85BEF6E260 /* cappuccino_pic_3_square.png */ = {isa = PBXFileReference; name = "cappuccino_pic_3_square.png"; path = "../src/assets/coffee_assets/cappuccino/square/cappuccino_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9DAE8349E7044530BEC5A2F4 /* espresso_pic_1_portrait.png */ = {isa = PBXFileReference; name = "espresso_pic_1_portrait.png"; path = "../src/assets/coffee_assets/espresso/portrait/espresso_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC51C11B56A14CD5A8E5D410 /* espresso_pic_2_portrait.png */ = {isa = PBXFileReference; name = "espresso_pic_2_portrait.png"; path = "../src/assets/coffee_assets/espresso/portrait/espresso_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D365C6112FA94D1E99B23F6E /* espresso_pic_3_portrait.png */ = {isa = PBXFileReference; name = "espresso_pic_3_portrait.png"; path = "../src/assets/coffee_assets/espresso/portrait/espresso_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74B31BDAE558408AB53BEFB7 /* espresso_pic_1_square.png */ = {isa = PBXFileReference; name = "espresso_pic_1_square.png"; path = "../src/assets/coffee_assets/espresso/square/espresso_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5AC9B32873B4FA180F2AF71 /* espresso_pic_2_square.png */ = {isa = PBXFileReference; name = "espresso_pic_2_square.png"; path = "../src/assets/coffee_assets/espresso/square/espresso_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		915700CA776E45639CFB2F33 /* espresso_pic_3_square.png */ = {isa = PBXFileReference; name = "espresso_pic_3_square.png"; path = "../src/assets/coffee_assets/espresso/square/espresso_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D5E8231C5DCF4B70BA1BBF66 /* excelsa_coffee_beans_portrait.png */ = {isa = PBXFileReference; name = "excelsa_coffee_beans_portrait.png"; path = "../src/assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		21BC0938DF3B45F2845F129A /* excelsa_coffee_beans_square.png */ = {isa = PBXFileReference; name = "excelsa_coffee_beans_square.png"; path = "../src/assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		626204109B714229BCA72BD1 /* latte_pic_1_portrait.png */ = {isa = PBXFileReference; name = "latte_pic_1_portrait.png"; path = "../src/assets/coffee_assets/latte/portrait/latte_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0847BC8C3200475490C68CF0 /* latte_pic_2_portrait.png */ = {isa = PBXFileReference; name = "latte_pic_2_portrait.png"; path = "../src/assets/coffee_assets/latte/portrait/latte_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		34AF9BB3BAE143ECBC9DA8E4 /* latte_pic_3_portrait.png */ = {isa = PBXFileReference; name = "latte_pic_3_portrait.png"; path = "../src/assets/coffee_assets/latte/portrait/latte_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B90BF8055167421496F12F3B /* latte_pic_1_square.png */ = {isa = PBXFileReference; name = "latte_pic_1_square.png"; path = "../src/assets/coffee_assets/latte/square/latte_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		576C2310AC284BD7B45B1B77 /* latte_pic_2_square.png */ = {isa = PBXFileReference; name = "latte_pic_2_square.png"; path = "../src/assets/coffee_assets/latte/square/latte_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D92614ADA2E4458EB642EFF5 /* latte_pic_3_square.png */ = {isa = PBXFileReference; name = "latte_pic_3_square.png"; path = "../src/assets/coffee_assets/latte/square/latte_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2A94BCCFFC5645DCBE261A3F /* liberica_coffee_beans_portrait.png */ = {isa = PBXFileReference; name = "liberica_coffee_beans_portrait.png"; path = "../src/assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA99B141227B4562B1AD1C9B /* liberica_coffee_beans_square.png */ = {isa = PBXFileReference; name = "liberica_coffee_beans_square.png"; path = "../src/assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		70EFCD7EDD564EE6BA8187D6 /* macchiato_pic_1_portrait.png */ = {isa = PBXFileReference; name = "macchiato_pic_1_portrait.png"; path = "../src/assets/coffee_assets/macchiato/portrait/macchiato_pic_1_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C68A6CFD5261410E97E7DDA0 /* macchiato_pic_2_portrait.png */ = {isa = PBXFileReference; name = "macchiato_pic_2_portrait.png"; path = "../src/assets/coffee_assets/macchiato/portrait/macchiato_pic_2_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		488E2F12E893430A9E373321 /* macchiato_pic_3_portrait.png */ = {isa = PBXFileReference; name = "macchiato_pic_3_portrait.png"; path = "../src/assets/coffee_assets/macchiato/portrait/macchiato_pic_3_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B12AA549143D4B608F83EF34 /* macchiato_pic_1_square.png */ = {isa = PBXFileReference; name = "macchiato_pic_1_square.png"; path = "../src/assets/coffee_assets/macchiato/square/macchiato_pic_1_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0E197B739F524289883696FC /* macchiato_pic_2_square.png */ = {isa = PBXFileReference; name = "macchiato_pic_2_square.png"; path = "../src/assets/coffee_assets/macchiato/square/macchiato_pic_2_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9204A8A7967C48A49793944C /* macchiato_pic_3_square.png */ = {isa = PBXFileReference; name = "macchiato_pic_3_square.png"; path = "../src/assets/coffee_assets/macchiato/square/macchiato_pic_3_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2CC0B22A892347B98B67385F /* robusta_coffee_beans_portrait.png */ = {isa = PBXFileReference; name = "robusta_coffee_beans_portrait.png"; path = "../src/assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_portrait.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4FCA051372AE493D9D2A3D1B /* robusta_coffee_beans_square.png */ = {isa = PBXFileReference; name = "robusta_coffee_beans_square.png"; path = "../src/assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_square.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +240,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9C05FA2B90CF436E9F6236F6 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +266,72 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		9C05FA2B90CF436E9F6236F6 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				DAD0BEA9B9BA4B99933EE257 /* app_icons.ttf */,
+				21D1B9F90C9D4B6CB66681F6 /* Poppins-Black.ttf */,
+				F4AC46CFD5C146B5A2B34EF1 /* Poppins-Bold.ttf */,
+				2EE02D92D24C4076BBB6722E /* Poppins-ExtraBold.ttf */,
+				4518A9D872D545A68D5BC584 /* Poppins-ExtraLight.ttf */,
+				8B224570DEFF4DAAA1B0AE3A /* Poppins-Light.ttf */,
+				A512F7150C904296BC226DA7 /* Poppins-Medium.ttf */,
+				B383A67C07DD4D8682913867 /* Poppins-Regular.ttf */,
+				0667314641CE497AB2A4A025 /* Poppins-SemiBold.ttf */,
+				76FBE17180E048A7B38ED3EB /* Poppins-Thin.ttf */,
+				68524B80279F444893E4D282 /* amazonpay.png */,
+				3EAEFE44C15C4F4CBF4D5F1A /* applepay.png */,
+				E09CC58F2B834809B6657EDD /* avatar.png */,
+				35AAE1F2EE634E91820F47D1 /* gpay.png */,
+				C34BE204FFD14C6D953D0001 /* americano_pic_1_portrait.png */,
+				766739D43DAC42809D8FA41B /* americano_pic_2_portrait.png */,
+				461DED45E27144CEB89ACCD2 /* americano_pic_3_portrait.png */,
+				679DC323535A48E69A988A91 /* americano_pic_1_square.png */,
+				E2BC463A174D4030BDAD179F /* americano_pic_2_square.png */,
+				F8D45202B964461481C52A52 /* americano_pic_3_square.png */,
+				9280BE868D1E41FF9A594AE4 /* arabica_coffee_beans_portrait.png */,
+				7BF829EF83C4441D9884FA4A /* arabica_coffee_beans_square.png */,
+				FB7C34D69AD2425C9D6EAF12 /* black_coffee_pic_1_portrait.png */,
+				A1016BFB029A40A8A9DB5259 /* black_coffee_pic_2_portrait.png */,
+				2A469FCB172E44578993B0CE /* black_coffee_pic_3_portrait.png */,
+				81F5546284DF47309B06B497 /* black_coffee_pic_1_square.png */,
+				5DCF2E51A1474558A8FFB43B /* black_coffee_pic_2_square.png */,
+				72D8B2938C494C389D30268C /* black_coffee_pic_3_square.png */,
+				DF18D665941243928E06A6F8 /* cappuccino_pic_1_portrait.png */,
+				33397C18F5404C738AFBED92 /* cappuccino_pic_2_portrait.png */,
+				17BF582B90B0422E830640F8 /* cappuccino_pic_3_portrait.png */,
+				05F81C751A8D45FD914EC9F5 /* cappuccino_pic_1_square.png */,
+				17679FF06D58410190105E94 /* cappuccino_pic_2_square.png */,
+				991F2DA373C24E85BEF6E260 /* cappuccino_pic_3_square.png */,
+				9DAE8349E7044530BEC5A2F4 /* espresso_pic_1_portrait.png */,
+				EC51C11B56A14CD5A8E5D410 /* espresso_pic_2_portrait.png */,
+				D365C6112FA94D1E99B23F6E /* espresso_pic_3_portrait.png */,
+				74B31BDAE558408AB53BEFB7 /* espresso_pic_1_square.png */,
+				F5AC9B32873B4FA180F2AF71 /* espresso_pic_2_square.png */,
+				915700CA776E45639CFB2F33 /* espresso_pic_3_square.png */,
+				D5E8231C5DCF4B70BA1BBF66 /* excelsa_coffee_beans_portrait.png */,
+				21BC0938DF3B45F2845F129A /* excelsa_coffee_beans_square.png */,
+				626204109B714229BCA72BD1 /* latte_pic_1_portrait.png */,
+				0847BC8C3200475490C68CF0 /* latte_pic_2_portrait.png */,
+				34AF9BB3BAE143ECBC9DA8E4 /* latte_pic_3_portrait.png */,
+				B90BF8055167421496F12F3B /* latte_pic_1_square.png */,
+				576C2310AC284BD7B45B1B77 /* latte_pic_2_square.png */,
+				D92614ADA2E4458EB642EFF5 /* latte_pic_3_square.png */,
+				2A94BCCFFC5645DCBE261A3F /* liberica_coffee_beans_portrait.png */,
+				BA99B141227B4562B1AD1C9B /* liberica_coffee_beans_square.png */,
+				70EFCD7EDD564EE6BA8187D6 /* macchiato_pic_1_portrait.png */,
+				C68A6CFD5261410E97E7DDA0 /* macchiato_pic_2_portrait.png */,
+				488E2F12E893430A9E373321 /* macchiato_pic_3_portrait.png */,
+				B12AA549143D4B608F83EF34 /* macchiato_pic_1_square.png */,
+				0E197B739F524289883696FC /* macchiato_pic_2_square.png */,
+				9204A8A7967C48A49793944C /* macchiato_pic_3_square.png */,
+				2CC0B22A892347B98B67385F /* robusta_coffee_beans_portrait.png */,
+				4FCA051372AE493D9D2A3D1B /* robusta_coffee_beans_square.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +428,64 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				86F153BAFDE2419697FF3260 /* app_icons.ttf in Resources */,
+				6FBDB4350A6E4C86847447EC /* Poppins-Black.ttf in Resources */,
+				AC843BB8156A42A4BA1EC027 /* Poppins-Bold.ttf in Resources */,
+				A26095E10D484488A7E6C66A /* Poppins-ExtraBold.ttf in Resources */,
+				9CC28E2B92B640F197A1EE8B /* Poppins-ExtraLight.ttf in Resources */,
+				A95AB768FA2241DEBCAFDC05 /* Poppins-Light.ttf in Resources */,
+				15A25E97E93A49629947F35D /* Poppins-Medium.ttf in Resources */,
+				E8E50E842DE343B0B40AC185 /* Poppins-Regular.ttf in Resources */,
+				F9981223552C482A94CC7B03 /* Poppins-SemiBold.ttf in Resources */,
+				907683D33B1F4E6C8A0672EE /* Poppins-Thin.ttf in Resources */,
+				428522EDF0D94603BABC05EE /* amazonpay.png in Resources */,
+				40347DB5179046728E835C59 /* applepay.png in Resources */,
+				231FB7D9D20F4046B4C6870F /* avatar.png in Resources */,
+				339D9093523A498A94D1AA45 /* gpay.png in Resources */,
+				E2BA14B284884EE89C077C41 /* americano_pic_1_portrait.png in Resources */,
+				A3094358C31E4BBEAC1428FE /* americano_pic_2_portrait.png in Resources */,
+				59A81C51DD404AD19C44E170 /* americano_pic_3_portrait.png in Resources */,
+				CA4BE8A5664F41559EACB920 /* americano_pic_1_square.png in Resources */,
+				177BABD88E53498D90B208BB /* americano_pic_2_square.png in Resources */,
+				3CD05BAFDBC847929217448A /* americano_pic_3_square.png in Resources */,
+				4FBCD609723548E58B434E0A /* arabica_coffee_beans_portrait.png in Resources */,
+				184AC0FBD1C24C6AB8F2A7DC /* arabica_coffee_beans_square.png in Resources */,
+				60526294A5794FD2A62333D6 /* black_coffee_pic_1_portrait.png in Resources */,
+				D97F1405305E4F249F2AEEC3 /* black_coffee_pic_2_portrait.png in Resources */,
+				AE7B0A7F53C84ABB935E5AD6 /* black_coffee_pic_3_portrait.png in Resources */,
+				299551FE6C8A4393A6CC1FB2 /* black_coffee_pic_1_square.png in Resources */,
+				B344497FCB5D4A61A5A34EC4 /* black_coffee_pic_2_square.png in Resources */,
+				F45BB35AEC9245949A35D726 /* black_coffee_pic_3_square.png in Resources */,
+				9ABDA91FADED400C82B3ABE0 /* cappuccino_pic_1_portrait.png in Resources */,
+				7DC35E591E0348A1B5A9A67D /* cappuccino_pic_2_portrait.png in Resources */,
+				A1CC4635CC6B4CD5ABFBA060 /* cappuccino_pic_3_portrait.png in Resources */,
+				ABF2A9BAA2DE4A1E923F3281 /* cappuccino_pic_1_square.png in Resources */,
+				1AA4499EF19F43B0A17D05D2 /* cappuccino_pic_2_square.png in Resources */,
+				84E8528E000E4967AC7EEEE3 /* cappuccino_pic_3_square.png in Resources */,
+				01C3388B01834EBDB87C19A5 /* espresso_pic_1_portrait.png in Resources */,
+				94E857EBBC4F429FBDB09220 /* espresso_pic_2_portrait.png in Resources */,
+				57471F3937B04817B1FE74EB /* espresso_pic_3_portrait.png in Resources */,
+				D1C724D9EBC343C8BEB2D658 /* espresso_pic_1_square.png in Resources */,
+				A62C20BAEE584BDAAF1F4D85 /* espresso_pic_2_square.png in Resources */,
+				2A76BEC4C93442B684099DF8 /* espresso_pic_3_square.png in Resources */,
+				8AA25D5704C94035BC90C449 /* excelsa_coffee_beans_portrait.png in Resources */,
+				F9CFF1CA7EC0463E9BAB180B /* excelsa_coffee_beans_square.png in Resources */,
+				C32B577843B047798932FA84 /* latte_pic_1_portrait.png in Resources */,
+				C2A6684DD470491684B98ED7 /* latte_pic_2_portrait.png in Resources */,
+				FDB1FBB48568408B92AD1B45 /* latte_pic_3_portrait.png in Resources */,
+				582C5A5C475040C08EEC59E3 /* latte_pic_1_square.png in Resources */,
+				8C98910E7B0A4DFBAFEB32D0 /* latte_pic_2_square.png in Resources */,
+				27126046007E47DB9A170A59 /* latte_pic_3_square.png in Resources */,
+				2D7C46926FAE41C4BAC0055F /* liberica_coffee_beans_portrait.png in Resources */,
+				D568979AA86744B8874F99D9 /* liberica_coffee_beans_square.png in Resources */,
+				760F7C7F8509420B940D5B04 /* macchiato_pic_1_portrait.png in Resources */,
+				40BCF6829EB743029DB65B1C /* macchiato_pic_2_portrait.png in Resources */,
+				EEBAE419FA75486CB4489357 /* macchiato_pic_3_portrait.png in Resources */,
+				C398C45142384BCFAFC44CFA /* macchiato_pic_1_square.png in Resources */,
+				955F6DA183754A02B390ECD5 /* macchiato_pic_2_square.png in Resources */,
+				B2C45802F73A45CFB9EC80F0 /* macchiato_pic_3_square.png in Resources */,
+				703CF5AEE87240328F0C6C35 /* robusta_coffee_beans_portrait.png in Resources */,
+				31B9672D355C4CFEA0ED4DA9 /* robusta_coffee_beans_square.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

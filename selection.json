@@ -440,7 +440,7 @@
     }
   ],
   "height": 1024,
-  "metadata": {"name": "app_icons"},
+  "metadata": { "name": "app_icons" },
   "preferences": {
     "showGlyphs": true,
     "showQuickUse": true,
@@ -453,7 +453,7 @@
         "majorVersion": 1,
         "minorVersion": 0
       },
-      "metrics": {"emSize": 1024, "baseline": 6.25, "whitespace": 50},
+      "metrics": { "emSize": 1024, "baseline": 6.25, "whitespace": 50 },
       "embed": false,
       "showSelector": false,
       "showMetrics": false,
