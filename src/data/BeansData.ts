@@ -1,4 +1,6 @@
-const BeansData = [
+import { IBeans } from "../interface/commonInterface";
+
+const BeansData: IBeans[] = [
   {
     id: 'B1',
     name: 'Robusta Beans',

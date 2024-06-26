@@ -2,15 +2,15 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import React from "react";
 import { StyleSheet } from "react-native";
 import { TabParamList } from "../interface/commonInterface";
+import { BlurView } from "@react-native-community/blur";
+import { COLORS } from "../theme/theme";
 
 // Screens
-import { BlurView } from "@react-native-community/blur";
 import CustomIcon from "../components/CustomIcon";
 import CartScreen from "../screens/CartScreen";
 import FavoriteScreen from "../screens/FavoriteScreen";
 import HomeScreen from "../screens/HomeScreen";
 import OrderHistoryScreen from "../screens/OrderHistoryScreen";
-import { COLORS } from "../theme/theme";
 
 const Tab = createBottomTabNavigator<TabParamList>();
 
@@ -23,7 +23,7 @@ const TabNavigator = () => {
         tabBarShowLabel: false,
         tabBarStyle: styles.tabBarStyle,
         tabBarBackground() {
-          return <BlurView overlayColor="" blurAmount={15} />;
+          return <BlurView overlayColor="" blurAmount={10} style={styles.blurView} />;
         },
       }}
     >

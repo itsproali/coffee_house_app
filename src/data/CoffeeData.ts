@@ -1,4 +1,6 @@
-const CoffeeData = [
+import { ICoffee } from "../interface/commonInterface";
+
+const CoffeeData: ICoffee[] = [
   {
     id: "C1",
     name: "Americano",
