@@ -1,3 +1,5 @@
+import { ImageSourcePropType } from "react-native";
+
 // ----- Root Params
 export type RootStackParamList = {
   Tab: undefined;
@@ -29,8 +31,8 @@ export interface ICoffee {
   name: string;
   description: string;
   roasted: string;
-  imagelink_square: string;
-  imagelink_portrait: string;
+  imagelink_square: ImageSourcePropType;
+  imagelink_portrait: ImageSourcePropType;
   ingredients: string;
   special_ingredient: string;
   prices: { size: string; price: string; currency: string }[];
@@ -47,8 +49,8 @@ export interface IBeans {
   name: string;
   description: string;
   roasted: string;
-  imagelink_square: string;
-  imagelink_portrait: string;
+  imagelink_square: ImageSourcePropType;
+  imagelink_portrait: ImageSourcePropType;
   ingredients: string;
   special_ingredient: string;
   prices: Array<{
